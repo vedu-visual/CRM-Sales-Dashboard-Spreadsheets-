@@ -1,97 +1,107 @@
-# CRM-Sales-Dashboard-Spreadsheets-
+# 📊 Quarterly Sales Performance Dashboard (Spreadsheets – Pivot Tables)
 
-📊 Quarterly Sales Performance Dashboard (Spreadsheets – Pivot Tables)
-📌 Project Overview
+## 📌 Project Overview
+This project presents a **Quarterly Sales Performance Dashboard** created using **spreadsheet pivot tables** to analyze CRM sales opportunity data.  
+The dashboard helps understand sales activity, deal outcomes, and individual sales agent performance at a quarterly level.
 
-This project presents a Quarterly Sales Performance Dashboard built using Spreadsheet pivot tables.
-The dashboard provides insights into:
+It is designed for quick business insights and demonstrates practical data analysis and reporting skills using spreadsheets.
 
-Total opportunities across quarters
+---
 
-Win vs Loss analysis
+## 🧩 Dataset Description
+The dataset contains CRM sales opportunity records with the following key fields:
 
-Individual sales agent performance
+- `opportunity_id` – Unique identifier for each sales opportunity  
+- `close_date` – Date when the opportunity was closed  
+- `deal_stage` – Status of the deal (Won / Lost)  
+- `sales_agent` – Sales representative responsible for the deal  
 
-It helps business users and sales managers quickly understand trends and performance at a quarterly level.
+The `close_date` field was transformed into **Year–Quarter format** (e.g., 2017-Q1, 2017-Q2) for time-based analysis.
 
-🧩 Dataset Description
+---
 
-The dataset contains CRM sales opportunity data with the following key fields:
+## ⚙️ Data Preparation
+The following steps were performed before building the dashboard:
 
-opportunity_id – Unique identifier for each sales opportunity
+- Converted close dates into Year–Quarter format  
+- Cleaned and standardized categorical fields (deal_stage, sales_agent)  
+- Ensured data consistency for pivot table aggregation  
 
-close_date – Date when the opportunity was closed
+---
 
-deal_stage – Status of the deal (Won/Lost)
+## 📈 Dashboard Components
 
-sales_agent – Sales representative handling the deal
+### 1️⃣ Opportunities by Quarter  
+Shows the total number of opportunities closed in each quarter.  
+Helps identify:
+- Growth or decline in sales activity  
+- Seasonal or quarterly patterns  
 
-The close_date field was transformed into Year–Quarter format for time-based analysis.
+---
 
-⚙️ Data Preparation
+### 2️⃣ Deal Stage Analysis (Won vs Lost)  
+Displays opportunities grouped by:
+- Quarter  
+- Deal outcome (Won / Lost)  
 
-Converted close dates into Year–Quarter format (e.g., 2017-Q1, 2017-Q2).
+Used to analyze:
+- Conversion trends  
+- Performance consistency across quarters  
 
-Cleaned and structured data for pivot table analysis.
+---
 
-Ensured consistency in deal stage and sales agent values.
+### 3️⃣ Sales Agent Performance  
+Shows opportunity count per sales agent by quarter.  
+Helps:
+- Compare agent workload  
+- Identify top and low performers  
+- Support performance evaluation  
 
-📈 Dashboard Components
-1️⃣ Opportunities by Quarter
+---
 
-Displays the count of opportunities closed in each quarter:
+## 🔍 Key Insights (Sample)
+- Sales activity increases progressively from Q1 to Q4.  
+- Win/Loss distribution varies across quarters, indicating scope for pipeline improvement.  
+- Performance differs significantly across sales agents, suggesting optimization opportunities.
 
-Helps identify growth or decline in sales activity over time.
+---
 
-2️⃣ Deal Stage Analysis (Won vs Lost)
+## 🛠 Tools & Techniques Used
+- Spreadsheet software (Google Sheets / Excel-compatible tools)  
+- Pivot tables  
+- Date transformation  
+- Data aggregation and summarization  
 
-Breaks down opportunities by:
+---
 
-Quarter
-
-Deal outcome (Won / Lost)
-Provides visibility into conversion trends across quarters.
-
-3️⃣ Sales Agent Performance
-
-Shows the number of opportunities handled by each sales agent per quarter:
-
-Enables comparison of agent activity and performance.
-
-Helps identify top and low performers.
-
-🔍 Key Insights (Sample)
-
-Sales activity shows an upward trend from Q1 to Q4.
-
-Win/Loss distribution varies across quarters, indicating improvement areas in the sales pipeline.
-
-Performance varies significantly among sales agents, highlighting coaching and optimization opportunities.
-
-🛠 Tools & Techniques Used
-
-Spreadsheet software (Google Sheets / Excel-compatible tools)
-
-Pivot tables
-
-Date transformation (Year–Quarter)
-
-Data aggregation and summarization
-
-🎯 Business Use Case
-
+## 🎯 Business Use Case
 This dashboard can be used by:
-
-Sales managers to monitor quarterly performance
-
-Business analysts for sales trend analysis
-
-Operations teams for resource planning
+- Sales managers for quarterly performance tracking  
+- Business analysts for trend analysis  
+- Operations teams for resource allocation  
 
 It demonstrates:
+- Time-series analysis  
+- Business-focused reporting  
+- Effective use of pivot tables for decision support  
 
-Time-based aggregation
+---
 
-Sales performance analysis
+## 🚀 Future Improvements
+- Add interactive slicers or filters  
+- Include revenue, win rate, and pipeline metrics  
+- Convert into Power BI or Tableau for enhanced visualization  
 
-Practical use of pivot tables for reporting
+---
+
+## 📁 Files Included
+- `sales_CRM_Dashboard` – Quarterly Sales Performance Dashboard (spreadsheet file)
+
+---
+
+## ✅ Skills Demonstrated
+- Data cleaning  
+- Time-based aggregation  
+- Pivot table analysis  
+- Business reporting  
+- Analytical thinking  
