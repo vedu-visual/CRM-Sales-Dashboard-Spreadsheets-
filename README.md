@@ -95,7 +95,7 @@ It demonstrates:
 ---
 
 ## 📁 Files Included
-- `sales_CRM_Dashboard` – Quarterly Sales Performance Dashboard (spreadsheet file)
+- `[sales_CRM_Dashboard](https://docs.google.com/spreadsheets/d/1HSKgwveVtPsvRZ2MO1s_TRwlOnntdMHhu-FJpGaSnPs/edit?usp=sharing)` – Quarterly Sales Performance Dashboard (spreadsheet file)
 
 ---
 
