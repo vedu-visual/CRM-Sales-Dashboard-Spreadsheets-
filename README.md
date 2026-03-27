@@ -75,7 +75,7 @@ Interactive filters help analyze:
 sales-crm-analysis
 │
 ├── dataset
-│   └── sales_crm_data.xlsx
+│   └── Sales-CRM-Datasets.zip
 │
 ├── dashboard
 │   └── sales_crm_dashboard.xlsx
