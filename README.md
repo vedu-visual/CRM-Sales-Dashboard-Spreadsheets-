@@ -78,7 +78,7 @@ sales-crm-analysis
 │   └── Sales-CRM-Datasets.zip
 │
 ├── dashboard
-│   └── sales_crm_dashboard.xlsx
+│   └── Sales-CRM-Dashboard.pdf
 │
 ├── images
 │   └── crm_dashboard.png
