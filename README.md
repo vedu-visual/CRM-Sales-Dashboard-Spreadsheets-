@@ -95,8 +95,7 @@ It demonstrates:
 ---
 ## 📊 Dashboard Preview
 
-![CRM_Dashboard](<img width="1920" height="990" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/ca5c4938-fe07-4781-8e53-ad75f93148fc" />
-)
+![CRM_Dashboard]("C:\Users\vedan\OneDrive\Pictures\Screenshots\Screenshot (52).png")
 
 ## 📁 Files Included
 - `[sales_CRM_Dashboard]` – Quarterly Sales Performance Dashboard (spreadsheet file)
