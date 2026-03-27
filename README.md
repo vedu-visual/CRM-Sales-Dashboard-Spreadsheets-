@@ -95,6 +95,10 @@ It demonstrates:
 ---
 ## 📊 Dashboard Preview
 
+![Bike Sales Dashboard](images/dashboard_preview.png)
+---
+
+
 
 
 ## 📁 Files Included
