@@ -95,7 +95,7 @@ It demonstrates:
 ---
 ## 📊 Dashboard Preview
 
-![CRM_Dashboard]("C:\Users\vedan\OneDrive\Pictures\Screenshots\Screenshot (52).png")
+
 
 ## 📁 Files Included
 - `[sales_CRM_Dashboard]` – Quarterly Sales Performance Dashboard (spreadsheet file)
