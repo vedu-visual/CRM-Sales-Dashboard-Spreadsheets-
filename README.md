@@ -62,12 +62,8 @@ Interactive filters help analyze:
 ---
 
 ## 📊 Dashboard Preview
-*(Add screenshot here)*
 
-```
-![Sales-CRM-Dashboard](image/crm_dashboard.png)
-```
-
+![Sales CRM Dashboard](images/crm_dashboard.png)
 ---
 
 ## 📁 Project Structure
