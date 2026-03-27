@@ -95,7 +95,7 @@ It demonstrates:
 ---
 ## 📊 Dashboard Preview
 
-![Bike Sales Dashboard](images/dashboard_preview.png)
+![CRM_Dashboard]("C:\Users\vedan\OneDrive\Pictures\CRM_Dashboard.png")
 ---
 
 
