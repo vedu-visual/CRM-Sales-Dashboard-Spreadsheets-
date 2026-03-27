@@ -65,7 +65,7 @@ Interactive filters help analyze:
 *(Add screenshot here)*
 
 ```
-![Sales CRM Dashboard](images/crm_dashboard.png)
+![Sales-CRM-Dashboard](image/crm_dashboard.png)
 ```
 
 ---
