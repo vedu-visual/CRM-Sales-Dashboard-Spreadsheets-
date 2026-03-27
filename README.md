@@ -97,8 +97,8 @@ sales-crm-analysis
 
  Data Analyst
 
-- GitHub: *(Add link)*
-- LinkedIn: *(Add link)*
+- GitHub: *(https://github.com/vedu-visual)*
+- LinkedIn: *(https://www.linkedin.com/in/vedant-ratnakar-b864b824a/)*
 
 ---
 
